@@ -1,1 +1,1 @@
-Exercícios para melhorar a compreensão e o desempenho em lógica de programação.
+Exercícios para melhorar compreensão e desempenho em lógica de programação.
